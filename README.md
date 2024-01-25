@@ -65,7 +65,7 @@
 
 ## 🔗 Integration with Hello Rails Back-End <a name="integration-with-hello-rails-back-end"></a>
 
-Here is the link to the [Hello rails back-End](https://github.com/nilab-khwaja/hello-rails-back-end)   repository.
+Here is the link to the [Hello rails back-End](https://github.com/MohammadYaser/hello-rails-back-end)   repository.
 
 
 
@@ -83,7 +83,7 @@ Here is the link to the [Hello rails back-End](https://github.com/nilab-khwaja/h
 - Clone this repository or download the Zip folder:
 
 ```
-git clone https://github.com/nilab-khwaja/hello-react-front-end
+git clone https://github.com/MohammadYaser/hello-rails-back-end
 ```
 
 - Navigate to the location of the folder in your machine:
@@ -125,13 +125,13 @@ npm start .
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Author <a name="authors"></a>
 
-👤 **Nilab Khwajazada**
+👤 **Mohammad Yaser Safi**
 
-- GitHub: [@nilab-khwaja](https://github.com/githubhandle)
-- Twitter: [@nilab](https://twitter.com/twitterhandle)
-- LinkedIn: @nilab-khwajazada
+- GitHub: [@githubhandle](https://github.com/MohammadYaser)
+- Twitter: [@twitterhandle](https://twitter.com/Yaser_Safi19)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohammad-yaser-safi-a12083270)
 
 <!-- FUTURE FEATURES -->
 
@@ -150,7 +150,7 @@ npm start .
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
-Feel free to check the [issues page](https://github.com/nilab-khwaja/hello-react-front-end/issues).
+Feel free to check the [issues page](https://github.com/MohammadYaser/hello-rails-back-end/issues).
 
 ## ⭐️ Show your support
 
