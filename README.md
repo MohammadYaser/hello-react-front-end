@@ -170,7 +170,7 @@ Give a ⭐️ if you like this project and how we manage to build it!
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT]([./LICENSE](https://github.com/MohammadYaser/hello-react-front-end/blob/feature/hello_react/LICENSE)https://github.com/MohammadYaser/hello-react-front-end/blob/feature/hello_react/LICENSE) licensed.
+This project is [MIT](https://github.com/MohammadYaser/hello-rails-back-end/blob/feature/rails-back_end/LICENSE) licensed.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
