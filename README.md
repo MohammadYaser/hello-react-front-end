@@ -83,7 +83,7 @@ Here is the link to the [Hello rails back-End](https://github.com/MohammadYaser/
 - Clone this repository or download the Zip folder:
 
 ```
-git clone https://github.com/MohammadYaser/hello-rails-back-end
+git clone https://github.com/MohammadYaser/hello-react-front-end
 ```
 
 - Navigate to the location of the folder in your machine:
@@ -150,7 +150,7 @@ npm start .
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
-Feel free to check the [issues page](https://github.com/MohammadYaser/hello-rails-back-end/issues).
+Feel free to check the [issues page](https://github.com/MohammadYaser/hello-react-front-end/issues).
 
 ## ⭐️ Show your support
 
