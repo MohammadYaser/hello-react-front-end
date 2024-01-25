@@ -172,5 +172,4 @@ Give a ⭐️ if you like this project and how we manage to build it!
 
 This project is [MIT](https://github.com/MohammadYaser/hello-rails-back-end/blob/feature/rails-back_end/LICENSE) licensed.
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
